@@ -5,7 +5,7 @@ source "https://rubygems.org"
 gem "jekyll", "3.6.0"
 
 group :github_pages_compatible do
-    gem "json", "~> 1.7", ">= 1.7.7"
+    gem "json", "~> 2.3"
     gem "coffee-script", "~> 2.4"
     gem "coffee-script-source", "~> 1.12"
     gem "ethon", "~> 0.10"
